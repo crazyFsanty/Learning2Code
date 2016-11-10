@@ -1,0 +1,6 @@
+c:\users\santosh.singh\documents\visual studio 2013\Projects\Tables\Tables\bin\Debug\Tables.exe.config
+c:\users\santosh.singh\documents\visual studio 2013\Projects\Tables\Tables\bin\Debug\Tables.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\Tables\Tables\bin\Debug\Tables.pdb
+c:\users\santosh.singh\documents\visual studio 2013\Projects\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+c:\users\santosh.singh\documents\visual studio 2013\Projects\Tables\Tables\obj\Debug\Tables.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\Tables\Tables\obj\Debug\Tables.pdb
