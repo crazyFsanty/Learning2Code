@@ -1,0 +1,6 @@
+c:\users\santosh.singh\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+c:\users\santosh.singh\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+c:\users\santosh.singh\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojResolveAssemblyReference.cache
+c:\users\santosh.singh\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
