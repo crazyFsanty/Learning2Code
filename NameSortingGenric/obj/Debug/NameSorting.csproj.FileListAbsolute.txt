@@ -1,0 +1,6 @@
+c:\users\santosh.singh\documents\visual studio 2013\Projects\NameSorting\NameSorting\bin\Debug\NameSorting.exe.config
+c:\users\santosh.singh\documents\visual studio 2013\Projects\NameSorting\NameSorting\bin\Debug\NameSorting.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\NameSorting\NameSorting\bin\Debug\NameSorting.pdb
+c:\users\santosh.singh\documents\visual studio 2013\Projects\NameSorting\NameSorting\obj\Debug\NameSorting.csprojResolveAssemblyReference.cache
+c:\users\santosh.singh\documents\visual studio 2013\Projects\NameSorting\NameSorting\obj\Debug\NameSorting.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\NameSorting\NameSorting\obj\Debug\NameSorting.pdb
