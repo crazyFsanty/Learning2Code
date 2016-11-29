@@ -1,0 +1,6 @@
+c:\users\santosh.singh\documents\visual studio 2013\Projects\ConstructorQuestionSelfTry\ConstructorQuestionSelfTry\bin\Debug\ConstructorQuestionSelfTry.exe.config
+c:\users\santosh.singh\documents\visual studio 2013\Projects\ConstructorQuestionSelfTry\ConstructorQuestionSelfTry\bin\Debug\ConstructorQuestionSelfTry.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\ConstructorQuestionSelfTry\ConstructorQuestionSelfTry\bin\Debug\ConstructorQuestionSelfTry.pdb
+c:\users\santosh.singh\documents\visual studio 2013\Projects\ConstructorQuestionSelfTry\ConstructorQuestionSelfTry\obj\Debug\ConstructorQuestionSelfTry.csprojResolveAssemblyReference.cache
+c:\users\santosh.singh\documents\visual studio 2013\Projects\ConstructorQuestionSelfTry\ConstructorQuestionSelfTry\obj\Debug\ConstructorQuestionSelfTry.exe
+c:\users\santosh.singh\documents\visual studio 2013\Projects\ConstructorQuestionSelfTry\ConstructorQuestionSelfTry\obj\Debug\ConstructorQuestionSelfTry.pdb
